@@ -51,7 +51,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/galeria-arquivos-excel.git
+git clone [https://github.com/seu-usuario/galeria-arquivos-excel.git](https://github.com/rondineley/exel_painel)
 cd galeria-arquivos-excel
 Instale as dependências:
 
